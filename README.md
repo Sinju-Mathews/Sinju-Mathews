@@ -1,5 +1,6 @@
 # 💫 About Me:
-### 👋 Hi, I'm Sinju Mathews<br>I'm an MCA student passionate about coding and building simple, efficient solutions. Skilled in Python, Java, C++, PHP, and web development technologies. I enjoy exploring new tools and working on real-world projects that challenge me to grow. <br> <br><br><br>🎓 MCA Student at Mar Athanasius College of Engineering. <br><br>🌱 Open to internships and project collaborations <br> <br>📫 Reach me at: sinjumathews0005@gmail.com <br><br>
+### 👋 Hi, I'm Sinju Mathews<br>
+I'm an MCA student passionate about coding and building simple, efficient solutions. Skilled in Python, Java, C++, PHP, and web development technologies. I enjoy exploring new tools and working on real-world projects that challenge me to grow. <br> <br><br><br>🎓 MCA Student at Mar Athanasius College of Engineering. <br><br>🌱 Open to internships and project collaborations <br> <br>📫 Reach me at: sinjumathews0005@gmail.com <br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sinju_mathews) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sinju Mathews) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinjumathews0005@gmail.com) 
